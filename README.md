@@ -1,8 +1,12 @@
-# Lucid Design System - Components :large_blue_diamond:
+<p align="center">
+  <a href="https://mui.com/" rel="noopener" target="_blank"><img width="200" src="/docs/public/static/logo.png" alt="MUI logo"></a>
+</p>
 
-![lucid-logo](https://github.com/lucidds/lucid-components/assets/39086256/cc13625a-15b8-4812-9e9d-28bde48a9ff0)
+<h1 align="center">Lucid Design System - Components :large_blue_diamond:</h1>
 
-The Lucid Design System is a modular and reusable design system, built with Web Components and optimized for React, Vue, and Angular.
+**Lucid Design System** is a modular and reusable design system, built with Web Components and optimized for React, Vue, and Angular.
+
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mui/material-ui/blob/HEAD/LICENSE)
 
 ## Index
 
@@ -13,10 +17,79 @@ The Lucid Design System is a modular and reusable design system, built with Web 
     - [Angular](#angular)
     - [React](#react)
     - [Vue](#vue)
+  - [Project Structure](#project-structure)
   - [Installation](#installation)
   - [Development](#development)
   - [Contributing](#contributing)
   - [License](#license)
+ 
+## How to use
+
+Lucid DS is available as an [npm package](#).
+
+### Web Components
+
+Lucid DS is available as an [npm package](#).
+
+**npm:**
+
+```bash
+npm install ----
+```
+
+**yarn:**
+
+```bash
+yarn add ----
+```
+
+### Angular
+
+Lucid DS is available as an angular [npm package](#).
+
+**npm:**
+
+```bash
+npm install ----
+```
+
+**yarn:**
+
+```bash
+yarn add ----
+```
+
+### React
+
+Lucid DS is available as an react [npm package](#).
+
+**npm:**
+
+```bash
+npm install ----
+```
+
+**yarn:**
+
+```bash
+yarn add ----
+```
+
+### Vue
+
+Lucid DS is available as an vue [npm package](#).
+
+**npm:**
+
+```bash
+npm install ----
+```
+
+**yarn:**
+
+```bash
+yarn add ----
+```
 
 ## Project Structure
 
