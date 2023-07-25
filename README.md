@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://mui.com/" rel="noopener" target="_blank"><img width="200" src="/docs/public/static/logo.png" alt="MUI logo"></a>
+  <a href="https://github.com/orgs/lucidds/repositories" rel="noopener" target="_blank"><img width="200" src="/docs/public/static/logo.png" alt="MUI logo"></a>
 </p>
 
 <h1 align="center">Lucid Design System - Components :large_blue_diamond:</h1>
 
 **Lucid Design System** is a modular and reusable design system, built with Web Components and optimized for React, Vue, and Angular.
 
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mui/material-ui/blob/HEAD/LICENSE)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/lucidds/lucid-components/blob/main/LICENSE)
 
 ## Index
 
